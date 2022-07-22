@@ -163,6 +163,9 @@ vendor/etc/camera/golden_ov13b10_i_ov2180_i.bin
 vendor/etc/camera/golden_rear_dc_cal_wd.bin
 vendor/etc/camera/golden_s5k3l6_ii_ov2180_ii.bin
 
+# Codec2
+vendor/etc/vintf/manifest/c2_manifest_vendor.xml
+
 # Consumerir
 vendor/lib/hw/consumerir.mt6768.so
 vendor/lib64/hw/consumerir.mt6768.so
